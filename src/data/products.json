@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Gentle Daily Cleanser",
+    "brand": "ClearSkin",
+    "description": "Mild, non-foaming cleanser suitable for all skin types",
+    "ingredients": ["water", "glycerin", "ceramides", "niacinamide"],
+    "skinTypes": ["all"]
+  },
+  {
+    "id": 2,
+    "name": "Retinol Night Serum",
+    "brand": "GlowLab",
+    "description": "Anti-aging serum with 0.5% retinol for overnight repair",
+    "ingredients": ["water", "retinol", "hyaluronic acid", "squalane"],
+    "skinTypes": ["normal", "oily", "combination"]
+  },
+  {
+    "id": 3,
+    "name": "Vitamin C Brightening Serum",
+    "brand": "Radiance",
+    "description": "15% L-ascorbic acid for brightening and antioxidant protection",
+    "ingredients": ["water", "vitamin c", "ferulic acid", "vitamin e"],
+    "skinTypes": ["all"]
+  },
+  {
+    "id": 4,
+    "name": "Hydrating Toner",
+    "brand": "DewDrop",
+    "description": "Alcohol-free toner with hyaluronic acid",
+    "ingredients": ["water", "hyaluronic acid", "glycerin", "allantoin"],
+    "skinTypes": ["all"]
+  },
+  {
+    "id": 5,
+    "name": "AHA Exfoliating Solution",
+    "brand": "ExfoliPro",
+    "description": "10% glycolic acid for gentle chemical exfoliation",
+    "ingredients": ["water", "aha", "glycolic acid", "aloe vera"],
+    "skinTypes": ["normal", "oily", "combination"]
+  },
+  {
+    "id": 6,
+    "name": "Niacinamide Serum",
+    "brand": "PoreRefine",
+    "description": "10% niacinamide to minimize pores and regulate oil",
+    "ingredients": ["water", "niacinamide", "zinc", "hyaluronic acid"],
+    "skinTypes": ["oily", "combination"]
+  },
+  {
+    "id": 7,
+    "name": "Rich Moisturizer",
+    "brand": "ComfortCream",
+    "description": "Deeply hydrating cream for dry skin",
+    "ingredients": ["water", "shea butter", "ceramides", "peptides"],
+    "skinTypes": ["dry", "sensitive"]
+  },
+  {
+    "id": 8,
+    "name": "BHA Acne Treatment",
+    "brand": "ClearPath",
+    "description": "2% salicylic acid for acne-prone skin",
+    "ingredients": ["water", "bha", "salicylic acid", "witch hazel"],
+    "skinTypes": ["oily", "combination"]
+  },
+  {
+    "id": 9,
+    "name": "Soothing Gel Moisturizer",
+    "brand": "CalmSkin",
+    "description": "Lightweight gel moisturizer for sensitive skin",
+    "ingredients": ["water", "aloe vera", "centella asiatica", "hyaluronic acid"],
+    "skinTypes": ["sensitive", "oily", "combination"]
+  },
+  {
+    "id": 10,
+    "name": "Benzoyl Peroxide Spot Treatment",
+    "brand": "SpotFix",
+    "description": "5% benzoyl peroxide for targeted acne treatment",
+    "ingredients": ["water", "benzoyl peroxide", "glycerin"],
+    "skinTypes": ["oily", "combination"]
+  },
+  {
+    "id": 11,
+    "name": "Peptide Repair Cream",
+    "brand": "YouthBoost",
+    "description": "Multi-peptide complex for anti-aging",
+    "ingredients": ["water", "peptides", "ceramides", "niacinamide"],
+    "skinTypes": ["normal", "dry", "combination"]
+  },
+  {
+    "id": 12,
+    "name": "Hyaluronic Hydrator",
+    "brand": "MoistureLock",
+    "description": "Pure hyaluronic acid serum for intense hydration",
+    "ingredients": ["water", "hyaluronic acid", "glycerin", "panthenol"],
+    "skinTypes": ["all"]
+  },
+  {
+    "id": 13,
+    "name": "Oil-Control Mattifying Gel",
+    "brand": "MatteFinish",
+    "description": "Lightweight gel to control shine",
+    "ingredients": ["water", "niacinamide", "silica", "zinc"],
+    "skinTypes": ["oily", "combination"]
+  },
+  {
+    "id": 14,
+    "name": "Barrier Repair Balm",
+    "brand": "SkinShield",
+    "description": "Intensive repair for damaged skin barrier",
+    "ingredients": ["water", "ceramides", "cholesterol", "fatty acids"],
+    "skinTypes": ["dry", "sensitive"]
+  },
+  {
+    "id": 15,
+    "name": "Lactic Acid Gentle Peel",
+    "brand": "SoftGlow",
+    "description": "5% lactic acid for gentle exfoliation",
+    "ingredients": ["water", "aha", "lactic acid", "hyaluronic acid"],
+    "skinTypes": ["all"]
+  },
+  {
+    "id": 16,
+    "name": "Vitamin E Night Cream",
+    "brand": "NourishPlus",
+    "description": "Antioxidant-rich night cream for skin repair",
+    "ingredients": ["water", "vitamin e", "shea butter", "squalane"],
+    "skinTypes": ["dry", "normal"]
+  },
+  {
+    "id": 17,
+    "name": "Green Tea Essence",
+    "brand": "BotaniCare",
+    "description": "Antioxidant essence with green tea extract",
+    "ingredients": ["water", "green tea extract", "niacinamide", "glycerin"],
+    "skinTypes": ["all"]
+  },
+  {
+    "id": 18,
+    "name": "Azelaic Acid Treatment",
+    "brand": "TonePerfect",
+    "description": "10% azelaic acid for hyperpigmentation",
+    "ingredients": ["water", "azelaic acid", "niacinamide", "zinc"],
+    "skinTypes": ["oily", "combination", "normal"]
+  },
+  {
+    "id": 19,
+    "name": "Collagen Boosting Serum",
+    "brand": "FirmLift",
+    "description": "Peptide and collagen blend for firmness",
+    "ingredients": ["water", "peptides", "collagen", "hyaluronic acid"],
+    "skinTypes": ["normal", "dry", "combination"]
+  },
+  {
+    "id": 20,
+    "name": "Calming Facial Mist",
+    "brand": "SootheSpritz",
+    "description": "Refreshing mist with rose water and chamomile",
+    "ingredients": ["water", "rose water", "chamomile", "allantoin"],
+    "skinTypes": ["all"]
+  }
+]
